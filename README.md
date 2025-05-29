@@ -86,4 +86,5 @@ The Regression Y on X is Y = -0.664 ( X - 32.000) + 38.000
 
 
 # Result
+
 Thus the program is implemented and Executed Successfully
